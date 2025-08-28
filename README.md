@@ -7,4 +7,4 @@ Whenever I face a bug or error, I document it here with:
 - Solution
 - References
 
-✅ Goal: So that in future, I can quickly check solved issues instead of Googling again.  
+
