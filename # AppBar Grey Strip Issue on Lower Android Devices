@@ -1,3 +1,4 @@
+
 # AppBar Grey Strip Issue on Lower Android Devices
 
 ## Problem
@@ -8,9 +9,3 @@ On lower Android devices (API < 30), an **extra grey strip with app label** appe
 
 ## Solution
 Update `AndroidManifest.xml`:
-
-```xml
-<application
-    android:label=""
-    android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"
-    android:usesCleartextTraffic="true">
